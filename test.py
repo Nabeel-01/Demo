@@ -1,1 +1,1 @@
-print ("Hello Python Fellows")
+print ("Hello Python Friends")
